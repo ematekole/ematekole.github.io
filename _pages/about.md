@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Fellow, Nuclear and Radiological Engineering @ Georgia Institute of Technology
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
+  align: left
   image: IMG_3830.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Radiological Engineering, Detection, and Dosimetry (RED²) Laboratory</p>
-    <p>Georgia Tech Nuclear and Radiological Engineering</p>
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
