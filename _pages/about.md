@@ -29,8 +29,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Emmanuel M. Mate-Kole holds a PhD in Nuclear and Radiological Engineering from the Georgia Institute of Technology, where his research was conducted in the Radiological Engineering, Detection, and Dosimetry (RED²) Laboratory. His academic training in Nuclear Reactor Physics and Engineering also provided him with a strong foundation in both the theoretical and applied aspects of radiation interactions. This expertise has supported an interdisciplinary career at the intersection of nuclear and radiological engineering, health physics, medical physics, and computational science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+His areas of expertise include, but not limited to, health physics, internal dosimetry, radiation consequence management, radiation and medical countermeasures, biokinetic and pharmacokinetic modeling, and nuclear science and engineering. His current research endeavors focus on radiation dosimetry, internal dosimetry modeling, computational radiation transport, and radiological risk assessment.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During his doctoral studies, Emmanuel conducted research on dosimetry and biomarkers of lung injury aimed at developing countermeasures for radionuclides and toxic heavy metals to improve radiation preparedness and mitigate health effects following radiological and nuclear incidents. His research leveraged stochastic biokinetic modeling approaches to support nuclear security and consequence management applications. He also contributed to advancing biokinetics through physiologically based modeling of internalized radionuclides to support the development and evaluation of therapeutic decorporation agents.
+
+Dr. Mate-Kole leverages machine learning and artificial intelligence (ML/AI) to drive data-informed innovation across nuclear science, technology, and engineering.
+ 
+Open Researcher and Contributor ID (ORCiD): 0000-0003-4311-6559
