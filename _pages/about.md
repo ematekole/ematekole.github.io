@@ -31,10 +31,25 @@ latest_posts:
 
 Dr. Emmanuel M. Mate-Kole holds a PhD in **Nuclear and Radiological Engineering** from the Georgia Institute of Technology, where his research was conducted in the Radiological Engineering, Detection, and Dosimetry (RED²) Laboratory. His academic training in Nuclear Reactor Physics and Engineering also provided him with a strong foundation in both the theoretical and applied aspects of radiation interactions. This expertise has supported an interdisciplinary career at the intersection of nuclear and radiological engineering, health physics, medical physics, and computational science.
 
-His areas of expertise include, but not limited to, **health physics**, **internal dosimetry**, **radiation consequence management**, **radiation and medical countermeasures**, **biokinetic and pharmacokinetic modeling**, **nuclear science and engineering**, and **radiation detection and monitoring**. His current research endeavors focus on **radiation dosimetry**, **internal dosimetry modeling**, **computational radiation transport**, and **radiological risk assessment**.
-
 During his doctoral studies, Emmanuel conducted research on dosimetry and biomarkers of lung injury aimed at developing countermeasures for radionuclides and toxic heavy metals to improve radiation preparedness and mitigate health effects following radiological and nuclear incidents. His research leveraged stochastic biokinetic modeling approaches to support nuclear security and consequence management applications. He also contributed to advancing biokinetics through physiologically based modeling of internalized radionuclides to support the development and evaluation of therapeutic decorporation agents.
 
 Dr. Mate-Kole leverages **machine learning and artificial intelligence (ML/AI)** to drive data-informed innovation across **nuclear science, technology, and engineering**.
  
 Open Researcher and Contributor ID (ORCiD): 0000-0003-4311-6559.
+
+## Expertise and Interests
+- Radiological Engineering and Health Physics
+- Computational Radiation Transport
+- Radiological Risk Assessment
+- Nuclear Science and Engineering
+- Radiation Consequence Management
+- Nuclear Reactor Physics and Neutronics
+- Radiation Detection and Monitoring
+- Advanced Reactor Technologies
+- Machine Learning and Artificial Intelligence for Nuclear Science and Engineering
+- Nuclear Security, Safeguards, and Regulatory Science
+- Radiation and Medical Countermeasures
+- Radiation Dosimetry
+- Internal Dosimetry
+- Biokinetic and Pharmacokinetic Modeling
+
