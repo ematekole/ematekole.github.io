@@ -45,11 +45,12 @@ Open Researcher and Contributor ID (ORCiD): 0000-0003-4311-6559.
 - Radiation Consequence Management
 - Nuclear Reactor Physics and Neutronics
 - Radiation Detection and Monitoring
-- Advanced Reactor Technologies
+- Advanced Nuclear Reactor Technologies
 - Machine Learning and Artificial Intelligence for Nuclear Science and Engineering
 - Nuclear Security, Safeguards, and Regulatory Science
 - Radiation and Medical Countermeasures
 - Radiation Dosimetry
 - Internal Dosimetry
 - Biokinetic and Pharmacokinetic Modeling
+- Computational Mathematics and Statistics
 
