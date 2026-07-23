@@ -54,3 +54,7 @@ Open Researcher and Contributor ID (ORCiD): 0000-0003-4311-6559.
 - Biokinetic and Pharmacokinetic Modeling
 - Computational Mathematics and Statistics
 
+## Education
+- **Ph.D., Nuclear and Radiological Engineering**, Georgia Tech (2026)
+- **M.S., Nuclear Engineering (Major: Nuclear Reactor Physics and Engineering)**, Université Paris-Saclay, France (2020)
+- **B.Sc., Physics**, Kwame Nkrumah University of Science and Technology (KNUST), Ghana (2016)
