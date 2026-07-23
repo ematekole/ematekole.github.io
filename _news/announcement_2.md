@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-See statement from Radiation Research Society below.
+See award statement from the Radiation Research Society below:
 
 ---
 
