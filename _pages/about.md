@@ -2,8 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor [Tenure-Track], Nuclear Science and Engineering @ Abilene Christian University
-subtitle: Research Fellow [Tech Temp], Nuclear and Radiological Engineering @ Georgia Institute of Technology
+subtitle: >
+  Assistant Professor [Tenure-Track], Nuclear Science and Engineering @ Abilene Christian University<br>
+  Research Fellow [Tech Temp], Nuclear and Radiological Engineering @ Georgia Institute of Technology
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
