@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Fellow, Nuclear and Radiological Engineering @ Georgia Institute of Technology
+subtitle: Assistant Professor [Tenure-Track], Nuclear Science and Engineering @ Abilene Christian University
+subtitle: Research Fellow [Tech Temp], Nuclear and Radiological Engineering @ Georgia Institute of Technology
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -10,7 +11,7 @@ profile:
   image: IMG_3830.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Radiological Engineering, Detection, and Dosimetry (RED²) Laboratory</p>
+    <p>Research Laboratory: Soon!!</p>
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
@@ -56,5 +57,5 @@ Open Researcher and Contributor ID (ORCiD): 0000-0003-4311-6559.
 
 ## Education
 - **Ph.D., Nuclear and Radiological Engineering**, Georgia Tech (2026)
-- **M.S., Nuclear Engineering (Major: Nuclear Reactor Physics and Engineering)**, Université Paris-Saclay, France (2020)
-- **B.Sc., Physics**, Kwame Nkrumah University of Science and Technology (KNUST), Ghana (2016)
+- **M.S., Nuclear Engineering (Major: Nuclear Reactor Physics and Engineering)**, Université Paris-Saclay, France
+- **B.Sc., Physics**, Kwame Nkrumah University of Science and Technology (KNUST), Ghana
