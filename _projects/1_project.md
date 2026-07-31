@@ -5,10 +5,10 @@ description: Advanced modeling for radiological and heavy metal risk assessment
 img: assets/img/DDProj.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-**Funding**: Department of Defense – Aligning Dosimetry and Biomarkers of Lung Injury with Prophylaxis and Mitigation of Damage from Radionuclides and Metals
+**Funding**: Department of Defense – Aligning Dosimetry and Biomarkers of Lung Injury with Prophylaxis and Mitigation of Damage from Radionuclides and Metals<br>
 **Period of Performance**: Oct. 1, 2021-Sept. 30, 2025
 
 Military personnel, Warfighters, and first responders may encounter airborne contaminants during deployment in a wide range of operational environments. These exposures can result in respiratory injuries that appear either shortly after exposure, such as pneumonitis (inflammation of lung tissue), or develop over time into chronic conditions like pulmonary fibrosis (scarring of lung tissue). Contaminants may originate from radioactive particles released during nuclear power plant accidents, nuclear weapon events, or radiological dispersal devices ("dirty bombs"). Non-radioactive contaminants, including toxic metals such as tungsten alloys and depleted uranium used in military munitions, can also pose significant health risks when inhaled.
