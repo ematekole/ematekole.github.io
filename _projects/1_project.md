@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
+title: Evaluation of Exposure Pathway, Internalized Uptakes, and Dosimetry for Military Personnel 
+from Radiological and Toxic Metal Sources
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/DDProj.png
 importance: 1
 category: work
 related_publications: true
