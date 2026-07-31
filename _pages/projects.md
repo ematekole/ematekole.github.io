@@ -2,11 +2,11 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A curated collection of research and projects showcasing innovation, collaboration, and meaningful real-world impact.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
