@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Evaluation of Exposure Pathway, Internalized Uptakes, and Dosimetry for Military Personnel from Radiological and Toxic Metal Sources
-# description: with background image
+description: Advanced modeling for radiological and heavy metal risk assessment
 img: assets/img/DDProj.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
