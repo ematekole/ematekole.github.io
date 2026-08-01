@@ -1,7 +1,6 @@
 ---
 layout: course
-title: NRE 3316 - Radiation Protection Engineering
-subtitle: Internal Exposures – Phantoms, Dosimetric Quantities
+title: NRE 3316 - Radiation Protection Engineering; Internal Exposures – Phantoms, Dosimetric Quantities
 description: This course provides an introduction to the concept of internal dosimetry, explored algorithms, and evaluation of dosimetric quantities.
 instructor: Emmanuel Mate-Kole, PhD Candidate, Nuclear and Radiological Engineering
 year: 2025
