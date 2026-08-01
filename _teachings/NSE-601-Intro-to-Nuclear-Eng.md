@@ -1,6 +1,6 @@
 ---
 layout: course
-title: NSE 601 – Introduction to Nuclear Engineering
+title: NSE 601 Introduction to Nuclear Engineering
 description: In this course, we discuss the foundational concepts of nuclear science and engineering, including nuclear physics, radiation, reactor systems, and radiation protection. This introduction is designed to equip students with the conceptual and analytical tools necessary to engage in advanced graduate coursework.
 instructor: Dr. Emmanuel Mate-Kole, Assistant Professor, Nuclear Science and Engineering Department
 year: 2026
