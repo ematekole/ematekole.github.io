@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enhancement of Biokinetics using Physiologically-Based Models for Internalized Radionuclides
-description: Dynamic PB-biokinetic modeling 
+description: Dynamic and stochastic PB-biokinetic modeling 
 img: assets/img/nihGT.png
 importance: 1
 category: work
