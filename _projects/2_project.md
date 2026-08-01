@@ -1,81 +1,28 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Enhancement of Biokinetics using Physiologically-Based Models for Internalized Radionuclides
+description: Dynamic PB-biokinetic modeling 
+img: assets/img/nihGT.png
+importance: 1
 category: work
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Funding**: National Institutes of Health – via Georgia Tech; Multi-Scale Evaluation and Mitigation of Toxicities Following Internal Radionuclide Contamination<br>
+**Period of Performance**: March 10, 2022-Feb. 28, 2027
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+After large-scale exposure of populations to radiological or nuclear (RN) sources, biokinetic models are employed to estimate how the concentration of radioactive materials changes over time within different tissues and organs. These predictions are essential for evaluating radiation doses and supporting medical decision-making during emergency triage. RN incidents may result from events such as the release of radioactive materials through a radiological dispersal device (RDD), the detonation of an improvised nuclear device (IND), or accidents involving nuclear reactors (NRA).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Currently, biokinetic models developed by the International Commission on Radiological Protection (ICRP) are mainly deterministic, using single “reference” models based on compartments that mathematically represent the movement of radionuclides through the body. These models were primarily designed for radiation protection and may not fully capture the variability found in a broader exposed population. This project proposes that improved biokinetic models, incorporating realistic characteristics of RN exposure scenarios, and biological and physiological differences among individuals in the population, can provide precise predictions of radionuclide distribution and eventual dose responses. A major challenge in developing more realistic models for diverse populations is the limited integration of fundamental physiological processes. These include precisely representing radioactive source conditions during RN events and translating them into biological mechanisms that influence inhalation behavior, movement of radionuclides into the bloodstream, distribution within the body, and eventual elimination incorporating age dependent parameterization.
+
+The current involvement in the project focuses on developing stochastic biokinetic models that represent the full range of exposed populations, including adults and children at all ages, for inhalation exposure scenarios associated with RDD/IND/NRA.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nihGT.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Time and age dependent stochastic biokinetic and dosimetric modeling for dose and risk endpoints.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
