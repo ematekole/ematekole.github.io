@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deep Learning for Image Segmentation
-description: AI/ML applications
+description: AI and ML applications
 img: assets/img/AI4Med.png
 importance: 1
 category: fun
