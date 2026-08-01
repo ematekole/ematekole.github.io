@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: A curated collection of research and projects showcasing innovation, collaboration, and meaningful real-world impact.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
