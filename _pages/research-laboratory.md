@@ -13,7 +13,5 @@ Our research focuses on radiation detection and monitoring, radiological enginee
         {% include figure.liquid loading="eager" path="assets/img/ResearchLab.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Inhalation of radioactive particles and heavy metals, deposition and clearance.
-</div>
+
 
