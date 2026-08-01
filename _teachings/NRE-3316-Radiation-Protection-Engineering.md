@@ -30,4 +30,4 @@ Student should be able to:
 ## Textbooks
 
 - Turner, Atoms, Radiation and Radiation Protection, Wiley-Interscience, 2nd Edition, 1995. (used through Spring 2007)
--  Martin and Lee, Principles of Radiological Health and Safety, Wiley-Interscience, 2003 (starting Spring 2008). 
+- Martin and Lee, Principles of Radiological Health and Safety, Wiley-Interscience, 2003 (starting Spring 2008). 
