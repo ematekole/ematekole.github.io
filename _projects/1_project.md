@@ -5,7 +5,6 @@ description: Advanced modeling for radiological and heavy metal risk assessment
 img: assets/img/DDProj.png
 importance: 1
 category: work
-related_publications: false
 ---
 
 **Funding**: Department of Defense – Aligning Dosimetry and Biomarkers of Lung Injury with Prophylaxis and Mitigation of Damage from Radionuclides and Metals<br>
