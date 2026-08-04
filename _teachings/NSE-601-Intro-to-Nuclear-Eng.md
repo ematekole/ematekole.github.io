@@ -5,8 +5,6 @@ description: In this course, we discuss the foundational concepts of nuclear sci
 instructor: Dr. Emmanuel Mate-Kole, Assistant Professor, Department of Nuclear Science and Engineering
 year: 2026
 term: Fall
-location: ACU, Onstead Science Center (OSC) 342
-time: MWF, 10:00-10:50 AM
 course_id: NSE-601-Intro-to-Nuclear-Eng
 ---
 
