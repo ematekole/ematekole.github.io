@@ -7,7 +7,7 @@ importance: 1
 category: fun
 ---
 
-A collaborative project with experts in Europe (France) and Ghana focused on exploring AI-driven solutions for sustainable development. The current involvement includes investigating deep learning algorithms for medical applications.
+A collaborative project with experts in Europe (France) and Ghana focused on exploring AI-driven solutions for sustainable development. The current involvement includes investigating deep learning algorithms for multidisciplinary applications.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/AI4Med.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
