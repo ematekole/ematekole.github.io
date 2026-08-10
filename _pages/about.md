@@ -10,7 +10,7 @@ profile:
   image: IMG_3830.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Research Laboratory: Soon!!</p>
+    <p>Director, REAN LAB</p>
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
