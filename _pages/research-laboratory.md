@@ -4,8 +4,17 @@ permalink: /research-laboratory/
 title: REAN LAB
 nav: true
 nav_order: 2
-hide_title: true
 ---
+<style>
+  .post-title {
+    display: none;
+  }
+
+  .post-header {
+    display: none;
+  }
+</style>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/REAN.jpg" title="example image" class="rounded z-depth-1" width="200" %}
