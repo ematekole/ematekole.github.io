@@ -19,6 +19,7 @@ nav_order: 5
 
 ## Journal Reviewer
 
+- Health Physics Journal — 2026
 - Health Physics Journal — 2025
 - Radiation Physics and Chemistry — 2024
 
