@@ -23,6 +23,9 @@ nav_order: 5
 - Health Physics Journal — 2025
 - Radiation Physics and Chemistry — 2024
 
+## Professional Editorial Services
+- Editor: Professional's Playbook (Forthcoming) — 2026
+
 ## Community and Outreach Involvement
 
 - Graduate Coordinator, Summer Undergraduate Research in Engineering/Sciences (SURE) Georgia Institute of Technology, 2025, 2024, 2023
